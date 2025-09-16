@@ -1,1 +1,2 @@
-# Diffusion-model-ptnguyen
+# Diffusion model tutorial
+
