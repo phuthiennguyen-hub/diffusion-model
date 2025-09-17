@@ -1,9 +1,16 @@
 # Diffusion model tutorial
 
-## Forward diffusion process
-![Diffusion Process Animation](diffusion_process.gif) ![Diffusion Process Animation](reverse_diffusion_process.gif)
-
-
-## Reverse diffusion process
+<table>
+  <tr>
+    <td align="center">
+      <b>Forward diffusion process</b><br>
+      <img src="diffusion_process.gif" width="300">
+    </td>
+    <td align="center">
+      <b>Reverse diffusion process</b><br>
+      <img src="reverse_diffusion_process.gif" width="300">
+    </td>
+  </tr>
+</table>
 
 This section provides a visual illustration of the diffusion process.
